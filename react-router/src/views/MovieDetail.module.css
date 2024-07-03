@@ -1,0 +1,13 @@
+.detail{
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.imgContainer{
+    text-align: center;
+}
+
+.detail h1 {text-align: center;}
